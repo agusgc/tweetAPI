@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
 	{
 		"name": "Grady Pratt",
 		"text": "in faucibus orci luctus et ultrices posuere cubilia Curae Phasellus"
@@ -19,4 +20,4 @@
 		"name": "Kennedy Bender",
 		"text": "id sapien. Cras dolor dolor, tempus non, lacinia at, iaculis"
 	}
-]
+]}
